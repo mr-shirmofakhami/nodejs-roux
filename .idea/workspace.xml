@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f4058a16-1a4e-4562-a445-98939eff121d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iLGeq2rUYEq4dAQBydW9jeEt99" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.16.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs.protractor.protractor_package" value="" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\MRSM\WebstormProjects\test2\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MRSM\WebstormProjects\test2\views\pages" />
+      <recent name="C:\Users\MRSM\WebstormProjects\test2\views\layout" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MRSM\WebstormProjects\test2\views\pages\partials" />
+      <recent name="C:\Users\MRSM\WebstormProjects\test2" />
+      <recent name="C:\Users\MRSM\WebstormProjects\test2\views\pages" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4058a16-1a4e-4562-a445-98939eff121d" name="Default Changelist" comment="" />
+      <created>1601679556586</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601679556586</updated>
+      <workItem from="1601679558280" duration="53498000" />
+      <workItem from="1602604307463" duration="6675000" />
+      <workItem from="1603012722900" duration="33046000" />
+      <workItem from="1603653801950" duration="4113000" />
+      <workItem from="1603704582732" duration="558000" />
+      <workItem from="1603879054243" duration="5476000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="2">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="3">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="4">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+        <entry key="2" value="TOOL_WINDOW" />
+        <entry key="3" value="TOOL_WINDOW" />
+        <entry key="4" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Deployment" timestamp="1603698080750">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Deployment/0.0.1366.728@0.0.1366.728" timestamp="1603698080750" />
+    <state x="568" y="227" key="#Notifications" timestamp="1603879835394">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="568" y="227" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1603879835394" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601744778916">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1601744778916" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1603890432021">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1603890432021" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1603705111750">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603705111750" />
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1601839047818">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601839047818" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1601839047818">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601839047818" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1601839047818">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601839047818" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1601839047818">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601839047818" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1603889973848">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1603889973848" />
+    <state x="488" y="225" key="git4idea.rebase.GitRebaseDialog" timestamp="1603879728186">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="225" key="git4idea.rebase.GitRebaseDialog/0.0.1366.728@0.0.1366.728" timestamp="1603879728186" />
+    <state x="485" y="258" key="git4idea.ui.GitResetDialog" timestamp="1603879972984">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="485" y="258" key="git4idea.ui.GitResetDialog/0.0.1366.728@0.0.1366.728" timestamp="1603879972984" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1603326404636">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1603326404636" />
+  </component>
+</project>
